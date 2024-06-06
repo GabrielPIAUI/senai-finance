@@ -1,9 +1,25 @@
+.finance-logo {
+    padding-top: 150px;
+}
+
 .area {
-    display: block;
+    display: inline;
     text-align: center;
 }
-
-.tablet {
-    height: 900px;
+.texto {
+    font-size: 50px;
+    width: 900px;
 }
 
+.botao-login {
+    width: 80px;
+}
+
+body {
+    background-image: url(tablet1.png);
+    height: 100vh;
+    display: block;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,12 @@
+@media(320px <= width <= 425px) {
+body {
+    background-image: url(tablet1.png);
+    height: 100vh;
+    display: flex;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+
+}
